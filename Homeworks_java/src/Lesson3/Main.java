@@ -5,6 +5,6 @@ package Lesson3;
 //Домашних заданий присылать в GitHub(ссылка на репозиторий).
 public class Main {
     public static void main(String[] args){
-System.out.println("Lesson2 done");
+System.out.println("Lesson2.1 done");
     }
 }
